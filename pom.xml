@@ -15,7 +15,7 @@
 	<packaging>jar</packaging>
 
 
-	<url>http://maven.apache.org</url>
+	<url>https://repo1.maven.org/maven2/</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
